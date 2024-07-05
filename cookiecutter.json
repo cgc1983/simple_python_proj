@@ -1,0 +1,4 @@
+{
+    "project_name": "python-project",
+    "minimal_python_version": ["3.11", "3.8", "3.9", "3.10", "3.12"]
+}
